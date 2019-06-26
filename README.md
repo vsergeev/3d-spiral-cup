@@ -7,7 +7,7 @@
 </tr>
 </table>
 
-A parametric spiral cup that can be used as a toothbrush holder, a pen/pencil holder, etc. Made in OpenSCAD.
+A parametric spiral cup that can be used as a toothbrush holder, a pen/pencil holder, etc. Prints with no supports for modest spiral angles. Made in OpenSCAD.
 
 **Design:** [spiral_cup.scad](spiral_cup.scad) (OpenSCAD)
 
